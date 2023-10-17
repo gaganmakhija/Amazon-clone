@@ -1,2 +1,2 @@
 # Amazon-clone-project
-this is only frontend 
+(this is only frontend )
